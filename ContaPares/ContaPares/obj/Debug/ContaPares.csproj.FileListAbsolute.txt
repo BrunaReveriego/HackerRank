@@ -1,0 +1,7 @@
+C:\Users\Capgemini\source\repos\ContaPares\ContaPares\bin\Debug\ContaPares.exe.config
+C:\Users\Capgemini\source\repos\ContaPares\ContaPares\bin\Debug\ContaPares.exe
+C:\Users\Capgemini\source\repos\ContaPares\ContaPares\bin\Debug\ContaPares.pdb
+C:\Users\Capgemini\source\repos\ContaPares\ContaPares\obj\Debug\ContaPares.csprojAssemblyReference.cache
+C:\Users\Capgemini\source\repos\ContaPares\ContaPares\obj\Debug\ContaPares.csproj.CoreCompileInputs.cache
+C:\Users\Capgemini\source\repos\ContaPares\ContaPares\obj\Debug\ContaPares.exe
+C:\Users\Capgemini\source\repos\ContaPares\ContaPares\obj\Debug\ContaPares.pdb
